@@ -9,8 +9,8 @@ Original file is located at
 ## Packages
 """
 
-# !pip install --upgrade tensorflow
-# !pip install --upgrade tensorflow_privacy
+pip install --upgrade tensorflow
+pip install --upgrade tensorflow_privacy
 
 import os
 import io
